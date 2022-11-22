@@ -67,19 +67,22 @@
       <div align="center">
         <div>
           <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" title="VSCode"/>
             <b><spam>VSCode</spam></b>
           </div>
+          <br>
           <div>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" title="Ubuntu"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="30" title="Ubuntu"/>
             <b><spam>Ubuntu</spam></b>
           </div>
+          <br>
           <div>
-            <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png?w=1060&t=st=1669128583~exp=1669129183~hmac=0d99fa349aa70407a81424140126b82e8adfb7a250e814fcef300728c97ac4e1" width="40" title="GitHub"/>
+            <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png?w=1060&t=st=1669128583~exp=1669129183~hmac=0d99fa349aa70407a81424140126b82e8adfb7a250e814fcef300728c97ac4e1" width="30" title="GitHub"/>
             <b><spam>GitHub</spam></b>
           </div>
+          <br>
           <div>
-            <img src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2022/icon-coreldraw.png" width="40" title="CorelDraw"/>
+            <img src="https://www.coreldraw.com/static/cdgs/product_content/cdgs/2022/icon-coreldraw.png" width="30" title="CorelDraw"/>
             <b><spam>CorelDraw</spam></b>
           </div>
         </div>
